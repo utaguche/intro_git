@@ -4,3 +4,4 @@ Learn Work Flow.
 .git commit
 .git rm
 .git status
+.git diff
