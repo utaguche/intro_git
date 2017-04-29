@@ -1,0 +1,4 @@
+追加したファイル。
+.git add
+.git commit
+.git rm
